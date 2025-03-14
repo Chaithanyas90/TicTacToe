@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\A0821423\\source\\Keerthan_Assignments\\Numerical_TicTacToe\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{303CB2F3-B303-4386-B855-328C9D85DA17}|NumericTicTacToe\\NumericTicTacToe.csproj|c:\\users\\a0821423\\source\\keerthan_assignments\\numerical_tictactoe\\numerictictactoe\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303CB2F3-B303-4386-B855-328C9D85DA17}|NumericTicTacToe\\NumericTicTacToe.csproj|solutionrelative:numerictictactoe\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{303CB2F3-B303-4386-B855-328C9D85DA17}|NumericTicTacToe\\NumericTicTacToe.csproj|c:\\users\\a0821423\\source\\keerthan_assignments\\numerical_tictactoe\\numerictictactoe\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{303CB2F3-B303-4386-B855-328C9D85DA17}|NumericTicTacToe\\NumericTicTacToe.csproj|solutionrelative:numerictictactoe\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +15,12 @@
       "RelativeMoniker": "D:0:0:{303CB2F3-B303-4386-B855-328C9D85DA17}|NumericTicTacToe\\NumericTicTacToe.csproj|solutionrelative:numerictictactoe\\undoredomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{303CB2F3-B303-4386-B855-328C9D85DA17}|NumericTicTacToe\\NumericTicTacToe.csproj|c:\\users\\a0821423\\source\\keerthan_assignments\\numerical_tictactoe\\numerictictactoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{303CB2F3-B303-4386-B855-328C9D85DA17}|NumericTicTacToe\\NumericTicTacToe.csproj|solutionrelative:numerictictactoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{303CB2F3-B303-4386-B855-328C9D85DA17}|NumericTicTacToe\\NumericTicTacToe.csproj|c:\\users\\a0821423\\source\\keerthan_assignments\\numerical_tictactoe\\numerictictactoe\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{303CB2F3-B303-4386-B855-328C9D85DA17}|NumericTicTacToe\\NumericTicTacToe.csproj|solutionrelative:numerictictactoe\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{303CB2F3-B303-4386-B855-328C9D85DA17}|NumericTicTacToe\\NumericTicTacToe.csproj|c:\\users\\a0821423\\source\\keerthan_assignments\\numerical_tictactoe\\numerictictactoe\\humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{303CB2F3-B303-4386-B855-328C9D85DA17}|NumericTicTacToe\\NumericTicTacToe.csproj|solutionrelative:numerictictactoe\\humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{303CB2F3-B303-4386-B855-328C9D85DA17}|NumericTicTacToe\\NumericTicTacToe.csproj|c:\\users\\a0821423\\source\\keerthan_assignments\\numerical_tictactoe\\numerictictactoe\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{303CB2F3-B303-4386-B855-328C9D85DA17}|NumericTicTacToe\\NumericTicTacToe.csproj|solutionrelative:numerictictactoe\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{303CB2F3-B303-4386-B855-328C9D85DA17}|NumericTicTacToe\\NumericTicTacToe.csproj|c:\\users\\a0821423\\source\\keerthan_assignments\\numerical_tictactoe\\numerictictactoe\\computerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 40,
+          "SelectedChildIndex": 38,
           "Children": [
             {
               "$type": "Bookmark",
@@ -178,20 +174,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UndoRedoManager.cs",
               "DocumentMoniker": "C:\\Users\\A0821423\\source\\Keerthan_Assignments\\Numerical_TicTacToe\\NumericTicTacToe\\UndoRedoManager.cs",
               "RelativeDocumentMoniker": "NumericTicTacToe\\UndoRedoManager.cs",
               "ToolTip": "C:\\Users\\A0821423\\source\\Keerthan_Assignments\\Numerical_TicTacToe\\NumericTicTacToe\\UndoRedoManager.cs",
               "RelativeToolTip": "NumericTicTacToe\\UndoRedoManager.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAIAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBAAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T11:36:21.996Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Move.cs",
               "DocumentMoniker": "C:\\Users\\A0821423\\source\\Keerthan_Assignments\\Numerical_TicTacToe\\NumericTicTacToe\\Models\\Move.cs",
               "RelativeDocumentMoniker": "NumericTicTacToe\\Models\\Move.cs",
@@ -199,12 +195,11 @@
               "RelativeToolTip": "NumericTicTacToe\\Models\\Move.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T11:34:29.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T11:34:29.082Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\A0821423\\source\\Keerthan_Assignments\\Numerical_TicTacToe\\NumericTicTacToe\\Models\\Player.cs",
               "RelativeDocumentMoniker": "NumericTicTacToe\\Models\\Player.cs",
@@ -212,8 +207,7 @@
               "RelativeToolTip": "NumericTicTacToe\\Models\\Player.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T11:33:08.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T11:33:08.444Z"
             },
             {
               "$type": "Document",
@@ -225,12 +219,11 @@
               "RelativeToolTip": "NumericTicTacToe\\HumanPlayer.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAAwAoAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T11:32:22.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T11:32:22.958Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "ComputerPlayer.cs",
               "DocumentMoniker": "C:\\Users\\A0821423\\source\\Keerthan_Assignments\\Numerical_TicTacToe\\NumericTicTacToe\\ComputerPlayer.cs",
               "RelativeDocumentMoniker": "NumericTicTacToe\\ComputerPlayer.cs",
@@ -238,8 +231,7 @@
               "RelativeToolTip": "NumericTicTacToe\\ComputerPlayer.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T11:31:27.393Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T11:31:27.393Z"
             },
             {
               "$type": "Document",
@@ -251,67 +243,32 @@
               "RelativeToolTip": "NumericTicTacToe\\Board.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAowBEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T11:29:46.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T11:29:46.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "SaveManager.cs",
               "DocumentMoniker": "C:\\Users\\A0821423\\source\\Keerthan_Assignments\\Numerical_TicTacToe\\NumericTicTacToe\\SaveManager.cs",
               "RelativeDocumentMoniker": "NumericTicTacToe\\SaveManager.cs",
               "ToolTip": "C:\\Users\\A0821423\\source\\Keerthan_Assignments\\Numerical_TicTacToe\\NumericTicTacToe\\SaveManager.cs",
               "RelativeToolTip": "NumericTicTacToe\\SaveManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwCIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T11:27:33.65Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\A0821423\\source\\Keerthan_Assignments\\Numerical_TicTacToe\\NumericTicTacToe\\Game.cs",
               "RelativeDocumentMoniker": "NumericTicTacToe\\Game.cs",
               "ToolTip": "C:\\Users\\A0821423\\source\\Keerthan_Assignments\\Numerical_TicTacToe\\NumericTicTacToe\\Game.cs",
               "RelativeToolTip": "NumericTicTacToe\\Game.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAewBUAAAAmAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAhwEsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T11:26:33.207Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "338ace0b-b9b3-4c06-b664-666461290456",
-        "Display": 1,
-        "X": 230,
-        "Y": 177,
-        "Width": 1218,
-        "Height": 741,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\A0821423\\source\\Keerthan_Assignments\\Numerical_TicTacToe\\NumericTicTacToe\\Program.cs",
-              "RelativeDocumentMoniker": "NumericTicTacToe\\Program.cs",
-              "ToolTip": "C:\\Users\\A0821423\\source\\Keerthan_Assignments\\Numerical_TicTacToe\\NumericTicTacToe\\Program.cs",
-              "RelativeToolTip": "NumericTicTacToe\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T06:56:47.548Z",
               "EditorCaption": ""
             }
           ]
